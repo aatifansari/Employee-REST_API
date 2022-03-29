@@ -37,6 +37,7 @@ Exception Handling - If employeeId does not exists in table runtime exception di
 4. PUT https://{host_name}/api/employees
 
 - updateEmployee - update existing employee data in the table using id attribute. Input data is passed as json in the request body
+
 ![image](https://user-images.githubusercontent.com/44142827/159649189-4d251bde-ddca-437b-bcc7-eba93c4f58f0.png)
 
 5. DELETE  https://{host_name}/api/employees/{employeeId}
